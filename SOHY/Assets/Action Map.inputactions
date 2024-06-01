@@ -1,0 +1,34 @@
+{
+    "name": "Action Map",
+    "maps": [
+        {
+            "name": "AAAAAAA",
+            "id": "c373e836-2e0c-4694-80db-3ec820b04c49",
+            "actions": [
+                {
+                    "name": "CLICK GAUCHE",
+                    "type": "Button",
+                    "id": "05380620-9df6-4740-b77a-66b61ab95fb9",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "788b5321-344d-4d3c-b766-a9c4f883b0bd",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "CLICK GAUCHE",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
